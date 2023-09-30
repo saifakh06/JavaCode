@@ -2,7 +2,7 @@ package practicePrograms;
 
 public class CheckWhetherACharIsAVowel {
 	public static void main(String args[]) {
-	
+		
 	 char vowel [] = {'a','e','i','o','u','A','E','I','O','U'};	
 	 char ch = 'Z';
 	 boolean isVowel  = false;
