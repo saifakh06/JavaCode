@@ -7,7 +7,7 @@ public class SumInRange {
 		int finalValue = 15;
 		int sum = 0;
 		
-		for (int i = 5;i<=15;i++) {
+		for (int i = intialValue;i<=finalValue;i++) {
 			sum = sum +i;
 		} System.out.println(sum);
 	}
