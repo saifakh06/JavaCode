@@ -14,7 +14,7 @@ public class FibonacciSeries {
 		while(sp<=num) {
 			thirdNum = firstNum + secondNum;
 			System.out.print(" "+thirdNum);
-			 firstNum= secondNum;
+			 firstNum = secondNum;
 			secondNum = thirdNum;
 			
 			sp++;
