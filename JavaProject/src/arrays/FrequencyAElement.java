@@ -21,7 +21,7 @@ public class FrequencyAElement {
 		}
 		if(count>0) {
 			System.out.println("Element | Frequncy");
-			System.out.println(key+" "+count);
+			System.out.println(key+"\t|\t"+count);
 		} else if(count==0) {
 			System.out.println(key+" not present");
 		}
